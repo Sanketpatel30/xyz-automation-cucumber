@@ -1,0 +1,79 @@
+2023-05-22 18:05:280 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:925 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:912 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:426 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:656 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:775 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:271 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:885 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:669 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:43 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:171 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:496 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:31 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:842 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 18:05:379 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:414 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:510 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:77 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:766 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:981 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:172 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:196 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:466 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:556 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:127 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 19:05:823 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:199 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:857 INFO  HomePage :32 - Click on bank manager login
+2023-05-23 17:05:284 INFO  AddCustomerPage :44 - Click on add customer
+2023-05-23 17:05:617 INFO  AddCustomerPage :51 - Enter first name 
+2023-05-23 17:05:728 INFO  AddCustomerPage :58 - Enter last name 
+2023-05-23 17:05:822 INFO  AddCustomerPage :65 - Enter post code
+2023-05-23 17:05:914 INFO  AddCustomerPage :72 - Click on add button
+2023-05-23 17:05:684 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:851 INFO  HomePage :32 - Click on bank manager login
+2023-05-23 17:05:401 INFO  AddCustomerPage :44 - Click on add customer
+2023-05-23 17:05:767 INFO  AddCustomerPage :51 - Enter first name 
+2023-05-23 17:05:881 INFO  AddCustomerPage :58 - Enter last name 
+2023-05-23 17:05:962 INFO  AddCustomerPage :65 - Enter post code
+2023-05-23 17:05:38 INFO  AddCustomerPage :72 - Click on add button
+2023-05-23 17:05:753 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:813 INFO  HomePage :32 - Click on bank manager login
+2023-05-23 17:05:462 INFO  AddCustomerPage :44 - Click on add customer
+2023-05-23 17:05:795 INFO  AddCustomerPage :51 - Enter first name 
+2023-05-23 17:05:893 INFO  AddCustomerPage :58 - Enter last name 
+2023-05-23 17:05:983 INFO  AddCustomerPage :65 - Enter post code
+2023-05-23 17:05:69 INFO  AddCustomerPage :72 - Click on add button
+2023-05-23 17:05:929 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:42 INFO  HomePage :32 - Click on bank manager login
+2023-05-23 17:05:619 INFO  BankManagerLoginPage :40 - Click on open account
+2023-05-23 17:05:680 INFO  BankManagerLoginPage :47 - Click and select customer name
+2023-05-23 17:05:763 INFO  BankManagerLoginPage :53 - Select currency
+2023-05-23 17:05:833 INFO  BankManagerLoginPage :59 - CLick on process button
+2023-05-23 17:05:519 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:795 INFO  HomePage :38 - Click on customer login
+2023-05-23 17:05:863 INFO  BankManagerLoginPage :47 - Click and select customer name
+2023-05-23 17:05:956 INFO  CustomerLoginPage :50 - Click on login button :
+2023-05-23 17:05:13 INFO  CustomerLoginPage :57 - Check logout button present :
+2023-05-23 17:05:46 INFO  CustomerLoginPage :64 - Click on logout tab
+2023-05-23 17:05:107 INFO  CustomerLoginPage :70 - verifying your name text
+2023-05-23 17:05:770 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:74 INFO  HomePage :38 - Click on customer login
+2023-05-23 17:05:135 INFO  BankManagerLoginPage :47 - Click and select customer name
+2023-05-23 17:05:218 INFO  CustomerLoginPage :50 - Click on login button :
+2023-05-23 17:05:266 INFO  AccountPage :57 - Click on deposit tab
+2023-05-23 17:05:308 INFO  AccountPage :64 - Enter amount
+2023-05-23 17:05:394 INFO  AccountPage :71 - Click on deposit tab
+2023-05-23 17:05:440 INFO  AccountPage :78 - Get deposit successfully tab
+2023-05-23 17:05:71 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 17:05:173 INFO  HomePage :38 - Click on customer login
+2023-05-23 17:05:238 INFO  BankManagerLoginPage :47 - Click and select customer name
+2023-05-23 17:05:320 INFO  CustomerLoginPage :50 - Click on login button :
+2023-05-23 17:05:371 INFO  AccountPage :57 - Click on deposit tab
+2023-05-23 17:05:410 INFO  AccountPage :64 - Enter amount
+2023-05-23 17:05:512 INFO  AccountPage :71 - Click on deposit tab
+2023-05-23 17:05:585 INFO  AccountPage :85 - Click on withdrawl
+2023-05-23 17:05:654 INFO  AccountPage :64 - Enter amount
+2023-05-23 17:05:755 INFO  AccountPage :99 - Click on withdrawl transaction tab
+2023-05-23 17:05:830 INFO  AccountPage :106 - Get withdrawl successful tab
